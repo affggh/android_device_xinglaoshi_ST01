@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/android/ST01
+LOCAL_PATH := device/xinglaoshi/ST01
